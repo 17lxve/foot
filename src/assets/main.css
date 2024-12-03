@@ -1,0 +1,22 @@
+:root {
+    --primary: #ddd;
+    --secondary: green;
+    --tertiary: lightgreen;
+    --light: white;
+    --text: #000000;
+}
+body {
+  background-color: var(--primary);
+  color: var(--text);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bako-theme{
+  --background: #ddd;
+  --primary: white;
+  --secondary: green;
+  --tertiary: lightgreen;
+  --secondary: #aaa;
+  --light: #EBD3F8;
+  --text: #000000;
+}
